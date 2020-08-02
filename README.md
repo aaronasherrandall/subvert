@@ -9,9 +9,9 @@ Program for checking Terms &amp; Conditions to see if company plans on selling y
 - Terms of Use
 - Privacy Policy
 
-# Steps
+# steps
 
-## 1 - Eliminate stopwords
+## 1 - eliminate stopwords
 
 1. Use python script to eliminate erroneous English words:
 https://www.geeksforgeeks.org/removing-stop-words-nltk-python/
