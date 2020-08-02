@@ -1,12 +1,17 @@
 # subvert
 Program for checking Terms &amp; Conditions to see if company plans on selling your data.
 
+# requirements
 50 documents that we know sell data:
 
 - Terms & Conditions
 - Contracts
 - Terms of Use
 - Privacy Policy
+
+# Steps
+
+# 1 - Eliminate stopwords
 
 1. Use python script to eliminate erroneous English words:
 https://www.geeksforgeeks.org/removing-stop-words-nltk-python/
