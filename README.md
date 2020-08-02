@@ -34,3 +34,11 @@ for r in words:
         appendFile.close()
 ```
 
+Compare Untrained with Document X
+
+Result A
+
+Compare Trained with Document X
+
+Result B
+
