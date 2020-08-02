@@ -14,7 +14,8 @@ https://www.geeksforgeeks.org/removing-stop-words-nltk-python/
 Example using stopwords
 
 1. Have .py and .txt in same directory
-2. .py outputs new .txt file without stopwords
+2. Copy and paste text from any source into .txt file
+2. .py outputs new .txt file without stopwords titled filteredtext.txt
 
 ```Python
 import io 
